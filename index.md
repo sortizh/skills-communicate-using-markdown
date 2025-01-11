@@ -5,3 +5,6 @@
 ```
 This is considered code
 ```
+- [x] Created new pull request
+- [x] Merged main branch and start-markdown branch
+- [ ] Finished all markdown activites
